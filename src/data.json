@@ -4,7 +4,7 @@
   "title": "Observatorio aéreo",
   "status": "reviewed",
   "buildStatus": "complete",
-  "generatedAt": "2026-11-15T14:50:35.490952+00:00",
+  "generatedAt": "2026-11-16T17:09:18.912909+00:00",
   "filters": [],
   "airports": [
     {
@@ -63,9 +63,8 @@
     }
   ],
   "refresh": {
-    "checkedAt": "2026-11-15T14:50:35.490952+00:00",
+    "checkedAt": "2026-11-16T17:09:18.912909+00:00",
     "warnings": [
-      "CAA 2026-09: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/september-2026/",
       "CAA 2026-10: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/october-2026/"
     ],
     "cadence": "Diaria · 07:20 UTC"
@@ -4677,7 +4676,7 @@
       "source": {
         "label": "Aena y Gibraltar Airport",
         "provider": "Aena y Gibraltar Airport",
-        "executedAt": "2026-11-15T14:50:35.490952+00:00",
+        "executedAt": "2026-11-16T17:09:18.912909+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-10-01"
@@ -73531,7 +73530,7 @@
       "source": {
         "label": "Eurostat · países socios europeos",
         "provider": "Eurostat · países socios europeos",
-        "executedAt": "2026-11-15T14:50:35.490952+00:00",
+        "executedAt": "2026-11-16T17:09:18.912909+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-06-01"
@@ -78286,7 +78285,7 @@
       "source": {
         "label": "Eurostat · nacional e internacional",
         "provider": "Eurostat · nacional e internacional",
-        "executedAt": "2026-11-15T14:50:35.490952+00:00",
+        "executedAt": "2026-11-16T17:09:18.912909+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-06-01"
@@ -86074,6 +86073,276 @@
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
         },
         {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "ABERDEEN",
+          "passengers": 4566,
+          "scheduled": 4566,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "BELFAST CITY (GEORGE BEST)",
+          "passengers": 9,
+          "scheduled": 0,
+          "charter": 9,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "BELFAST INTERNATIONAL",
+          "passengers": 31106,
+          "scheduled": 31106,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 44920,
+          "scheduled": 40575,
+          "charter": 4345,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "BOURNEMOUTH",
+          "passengers": 12459,
+          "scheduled": 12281,
+          "charter": 178,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "BRISTOL",
+          "passengers": 44195,
+          "scheduled": 42907,
+          "charter": 1288,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "CARDIFF WALES",
+          "passengers": 13694,
+          "scheduled": 10355,
+          "charter": 3339,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "EAST MIDLANDS INTERNATIONAL",
+          "passengers": 31224,
+          "scheduled": 28254,
+          "charter": 2970,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "EDINBURGH",
+          "passengers": 25001,
+          "scheduled": 25001,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "EXETER",
+          "passengers": 4604,
+          "scheduled": 4604,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "GATWICK",
+          "passengers": 116638,
+          "scheduled": 113105,
+          "charter": 3533,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "GLASGOW",
+          "passengers": 30775,
+          "scheduled": 27956,
+          "charter": 2819,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "GUERNSEY",
+          "passengers": 91,
+          "scheduled": 91,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "HEATHROW",
+          "passengers": 18719,
+          "scheduled": 18719,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "ISLE OF MAN",
+          "passengers": 102,
+          "scheduled": 0,
+          "charter": 102,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "JERSEY",
+          "passengers": 93,
+          "scheduled": 0,
+          "charter": 93,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "LEEDS BRADFORD",
+          "passengers": 32342,
+          "scheduled": 32342,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "LIVERPOOL (JOHN LENNON)",
+          "passengers": 39394,
+          "scheduled": 39394,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "LONDON CITY",
+          "passengers": 4655,
+          "scheduled": 4655,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "LUTON",
+          "passengers": 40701,
+          "scheduled": 40701,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "MANCHESTER",
+          "passengers": 66323,
+          "scheduled": 60870,
+          "charter": 5453,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "NEWCASTLE",
+          "passengers": 28983,
+          "scheduled": 28983,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "NEWQUAY",
+          "passengers": 4594,
+          "scheduled": 4594,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "PRESTWICK",
+          "passengers": 10514,
+          "scheduled": 10514,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "SOUTHEND",
+          "passengers": 10020,
+          "scheduled": 10020,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "STANSTED",
+          "passengers": 45769,
+          "scheduled": 45769,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-09",
+          "ukAirport": "TEESSIDE INTERNATIONAL AIRPORT",
+          "passengers": 3007,
+          "scheduled": 3007,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
           "airport": "BCN",
           "month": "2024-01",
           "ukAirport": "BIRMINGHAM",
@@ -91474,6 +91743,186 @@
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
         },
         {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "BELFAST INTERNATIONAL",
+          "passengers": 5215,
+          "scheduled": 5215,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 30985,
+          "scheduled": 30985,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "BRISTOL",
+          "passengers": 28251,
+          "scheduled": 28251,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "EAST MIDLANDS INTERNATIONAL",
+          "passengers": 10513,
+          "scheduled": 10513,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "EDINBURGH",
+          "passengers": 29698,
+          "scheduled": 29387,
+          "charter": 311,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "GATWICK",
+          "passengers": 100312,
+          "scheduled": 99964,
+          "charter": 348,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "GLASGOW",
+          "passengers": 6639,
+          "scheduled": 6639,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "HEATHROW",
+          "passengers": 81359,
+          "scheduled": 81359,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "LEEDS BRADFORD",
+          "passengers": 4019,
+          "scheduled": 4019,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "LIVERPOOL (JOHN LENNON)",
+          "passengers": 12266,
+          "scheduled": 12266,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "LONDON CITY",
+          "passengers": 2685,
+          "scheduled": 2685,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "LUTON",
+          "passengers": 53056,
+          "scheduled": 53056,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "MANCHESTER",
+          "passengers": 58914,
+          "scheduled": 58914,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "NEWCASTLE",
+          "passengers": 6912,
+          "scheduled": 6912,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "PRESTWICK",
+          "passengers": 5993,
+          "scheduled": 5993,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "SOUTHAMPTON",
+          "passengers": 1768,
+          "scheduled": 1768,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "SOUTHEND",
+          "passengers": 2698,
+          "scheduled": 2698,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "BCN",
+          "month": "2026-09",
+          "ukAirport": "STANSTED",
+          "passengers": 41755,
+          "scheduled": 41755,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
           "airport": "GIB",
           "month": "2024-01",
           "ukAirport": "BRISTOL",
@@ -92962,6 +93411,66 @@
           "charter": 0,
           "provider": "UK CAA",
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-09",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 2353,
+          "scheduled": 2353,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-09",
+          "ukAirport": "BOURNEMOUTH",
+          "passengers": 6,
+          "scheduled": 0,
+          "charter": 6,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-09",
+          "ukAirport": "BRISTOL",
+          "passengers": 2411,
+          "scheduled": 2411,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-09",
+          "ukAirport": "GATWICK",
+          "passengers": 11441,
+          "scheduled": 11441,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-09",
+          "ukAirport": "HEATHROW",
+          "passengers": 16729,
+          "scheduled": 16729,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "GIB",
+          "month": "2026-09",
+          "ukAirport": "MANCHESTER",
+          "passengers": 5613,
+          "scheduled": 5613,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
         },
         {
           "airport": "GRX",
@@ -94962,6 +95471,96 @@
           "charter": 0,
           "provider": "UK CAA",
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-09",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 4164,
+          "scheduled": 4164,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-09",
+          "ukAirport": "BRISTOL",
+          "passengers": 2874,
+          "scheduled": 2874,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-09",
+          "ukAirport": "GATWICK",
+          "passengers": 6821,
+          "scheduled": 6821,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-09",
+          "ukAirport": "LEEDS BRADFORD",
+          "passengers": 2421,
+          "scheduled": 2421,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-09",
+          "ukAirport": "LIVERPOOL (JOHN LENNON)",
+          "passengers": 2467,
+          "scheduled": 2467,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-09",
+          "ukAirport": "LUTON",
+          "passengers": 2596,
+          "scheduled": 2596,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-09",
+          "ukAirport": "MANCHESTER",
+          "passengers": 8945,
+          "scheduled": 8945,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-09",
+          "ukAirport": "SOUTHEND",
+          "passengers": 2880,
+          "scheduled": 2880,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-09",
+          "ukAirport": "STANSTED",
+          "passengers": 4469,
+          "scheduled": 4469,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
         },
         {
           "airport": "MAD",
@@ -98444,6 +99043,136 @@
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
         },
         {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 8556,
+          "scheduled": 8556,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "BRISTOL",
+          "passengers": 14739,
+          "scheduled": 14739,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "EAST MIDLANDS INTERNATIONAL",
+          "passengers": 0,
+          "scheduled": 0,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "EDINBURGH",
+          "passengers": 23315,
+          "scheduled": 22871,
+          "charter": 444,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "GATWICK",
+          "passengers": 57142,
+          "scheduled": 57142,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "HEATHROW",
+          "passengers": 127991,
+          "scheduled": 127991,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "LIVERPOOL (JOHN LENNON)",
+          "passengers": 4440,
+          "scheduled": 4156,
+          "charter": 284,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "LONDON CITY",
+          "passengers": 7436,
+          "scheduled": 7436,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "LUTON",
+          "passengers": 19789,
+          "scheduled": 19789,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "MANCHESTER",
+          "passengers": 20749,
+          "scheduled": 20690,
+          "charter": 59,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "NEWCASTLE",
+          "passengers": 0,
+          "scheduled": 0,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "OXFORD (KIDLINGTON)",
+          "passengers": 22,
+          "scheduled": 0,
+          "charter": 22,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "MAD",
+          "month": "2026-09",
+          "ukAirport": "STANSTED",
+          "passengers": 40362,
+          "scheduled": 40362,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
           "airport": "SVQ",
           "month": "2024-01",
           "ukAirport": "BIRMINGHAM",
@@ -100564,6 +101293,106 @@
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
         },
         {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 2973,
+          "scheduled": 2973,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "ukAirport": "BRISTOL",
+          "passengers": 2500,
+          "scheduled": 2500,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "ukAirport": "EAST MIDLANDS INTERNATIONAL",
+          "passengers": 0,
+          "scheduled": 0,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "ukAirport": "EDINBURGH",
+          "passengers": 4778,
+          "scheduled": 4612,
+          "charter": 166,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "ukAirport": "GATWICK",
+          "passengers": 38034,
+          "scheduled": 38034,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "ukAirport": "HEATHROW",
+          "passengers": 9003,
+          "scheduled": 9003,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "ukAirport": "LIVERPOOL (JOHN LENNON)",
+          "passengers": 2472,
+          "scheduled": 2472,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "ukAirport": "LUTON",
+          "passengers": 8252,
+          "scheduled": 8252,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "ukAirport": "MANCHESTER",
+          "passengers": 4588,
+          "scheduled": 4588,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-09",
+          "ukAirport": "STANSTED",
+          "passengers": 10629,
+          "scheduled": 10629,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
           "airport": "XRY",
           "month": "2024-03",
           "ukAirport": "STANSTED",
@@ -101302,15 +102131,75 @@
           "charter": 0,
           "provider": "UK CAA",
           "sourceUrl": "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-09",
+          "ukAirport": "BIRMINGHAM",
+          "passengers": 2623,
+          "scheduled": 2623,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-09",
+          "ukAirport": "GATWICK",
+          "passengers": 1219,
+          "scheduled": 0,
+          "charter": 1219,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-09",
+          "ukAirport": "LEEDS BRADFORD",
+          "passengers": 1003,
+          "scheduled": 1003,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-09",
+          "ukAirport": "LUTON",
+          "passengers": 161,
+          "scheduled": 0,
+          "charter": 161,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-09",
+          "ukAirport": "MANCHESTER",
+          "passengers": 3118,
+          "scheduled": 3118,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-09",
+          "ukAirport": "STANSTED",
+          "passengers": 2941,
+          "scheduled": 2941,
+          "charter": 0,
+          "provider": "UK CAA",
+          "sourceUrl": "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
         }
       ],
       "source": {
         "label": "UK Civil Aviation Authority · tabla 12.1",
         "provider": "UK Civil Aviation Authority · tabla 12.1",
-        "executedAt": "2026-11-15T14:50:35.490952+00:00",
+        "executedAt": "2026-11-16T17:09:18.912909+00:00",
         "coverage": {
           "startDate": "2024-01-01",
-          "endDate": "2026-08-01"
+          "endDate": "2026-09-01"
         },
         "files": [
           "https://www.caa.co.uk/Documents/Download/11899/dda6ab8f-a98e-4fe9-9eef-d68fecd22130/16413",
@@ -101344,7 +102233,8 @@
           "https://www.caa.co.uk/Documents/Download/26833/11a95c0b-983c-49fc-ba36-4599da419397/17752",
           "https://www.caa.co.uk/Documents/Download/26834/a4abec12-44d2-47fc-acd0-e4a9d246d7c4/17791",
           "https://www.caa.co.uk/Documents/Download/26835/3da8b582-a7bc-4678-8f53-2873ddc395d5/17830",
-          "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878"
+          "https://www.caa.co.uk/Documents/Download/26836/b61a64e5-6594-4741-9e56-8dd672c053dd/17878",
+          "https://www.caa.co.uk/Documents/Download/26837/1b2d30a5-fe61-4deb-a75e-c755f250023f/17919"
         ],
         "notes": [
           "CAA tabla 12.1: pasajeros entre aeropuertos británicos y el aeropuerto seleccionado, ambos sentidos. No mide toda la red. No sumar con Aena/Gibraltar: son poblaciones solapadas."
