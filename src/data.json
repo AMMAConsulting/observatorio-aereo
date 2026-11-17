@@ -4,7 +4,7 @@
   "title": "Observatorio aéreo",
   "status": "reviewed",
   "buildStatus": "complete",
-  "generatedAt": "2026-11-16T17:09:18.912909+00:00",
+  "generatedAt": "2026-11-17T16:57:07.998944+00:00",
   "filters": [],
   "airports": [
     {
@@ -63,7 +63,7 @@
     }
   ],
   "refresh": {
-    "checkedAt": "2026-11-16T17:09:18.912909+00:00",
+    "checkedAt": "2026-11-17T16:57:07.998944+00:00",
     "warnings": [
       "CAA 2026-10: HTTPError: 404 Client Error: Not Found for url: https://www.caa.co.uk/data-and-analysis/uk-aviation-market/airports/uk-airport-data/uk-airport-data-2026/october-2026/"
     ],
@@ -4676,7 +4676,7 @@
       "source": {
         "label": "Aena y Gibraltar Airport",
         "provider": "Aena y Gibraltar Airport",
-        "executedAt": "2026-11-16T17:09:18.912909+00:00",
+        "executedAt": "2026-11-17T16:57:07.998944+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-10-01"
@@ -15695,6 +15695,15 @@
         {
           "airport": "AGP",
           "month": "2026-01",
+          "country": "ME",
+          "countryLabel": "Montenegro",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEMG&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-01",
           "country": "MK",
           "countryLabel": "North Macedonia",
           "passengers": 0,
@@ -15983,6 +15992,15 @@
         {
           "airport": "AGP",
           "month": "2026-02",
+          "country": "ME",
+          "countryLabel": "Montenegro",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEMG&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-02",
           "country": "MK",
           "countryLabel": "North Macedonia",
           "passengers": 0,
@@ -16265,6 +16283,15 @@
           "country": "LV",
           "countryLabel": "Latvia",
           "passengers": 8511,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEMG&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "AGP",
+          "month": "2026-03",
+          "country": "ME",
+          "countryLabel": "Montenegro",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEMG&sinceTimePeriod=2023-01"
         },
@@ -36125,8 +36152,35 @@
         {
           "airport": "GRX",
           "month": "2026-01",
+          "country": "PL",
+          "countryLabel": "Poland",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-01",
           "country": "PT",
           "countryLabel": "Portugal",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-01",
+          "country": "RS",
+          "countryLabel": "Serbia",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-01",
+          "country": "TR",
+          "countryLabel": "Türkiye",
           "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
@@ -36224,8 +36278,35 @@
         {
           "airport": "GRX",
           "month": "2026-02",
+          "country": "PL",
+          "countryLabel": "Poland",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-02",
           "country": "PT",
           "countryLabel": "Portugal",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-02",
+          "country": "RS",
+          "countryLabel": "Serbia",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-02",
+          "country": "TR",
+          "countryLabel": "Türkiye",
           "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
@@ -36323,6 +36404,15 @@
         {
           "airport": "GRX",
           "month": "2026-03",
+          "country": "PL",
+          "countryLabel": "Poland",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-03",
           "country": "PT",
           "countryLabel": "Portugal",
           "passengers": 3,
@@ -36331,9 +36421,36 @@
         },
         {
           "airport": "GRX",
+          "month": "2026-03",
+          "country": "RS",
+          "countryLabel": "Serbia",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-03",
+          "country": "TR",
+          "countryLabel": "Türkiye",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
           "month": "2026-04",
           "country": "BE",
           "countryLabel": "Belgium",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-04",
+          "country": "BG",
+          "countryLabel": "Bulgaria",
           "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
@@ -36380,6 +36497,15 @@
           "country": "FR",
           "countryLabel": "France",
           "passengers": 4959,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-04",
+          "country": "HU",
+          "countryLabel": "Hungary",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
         },
@@ -36449,6 +36575,15 @@
         {
           "airport": "GRX",
           "month": "2026-05",
+          "country": "BG",
+          "countryLabel": "Bulgaria",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-05",
           "country": "CH",
           "countryLabel": "Switzerland",
           "passengers": 0,
@@ -36488,6 +36623,15 @@
           "country": "FR",
           "countryLabel": "France",
           "passengers": 4886,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-05",
+          "country": "HU",
+          "countryLabel": "Hungary",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
         },
@@ -36557,6 +36701,15 @@
         {
           "airport": "GRX",
           "month": "2026-06",
+          "country": "BG",
+          "countryLabel": "Bulgaria",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-06",
           "country": "CH",
           "countryLabel": "Switzerland",
           "passengers": 5,
@@ -36596,6 +36749,15 @@
           "country": "FR",
           "countryLabel": "France",
           "passengers": 3266,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "GRX",
+          "month": "2026-06",
+          "country": "HU",
+          "countryLabel": "Hungary",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEGR&sinceTimePeriod=2023-01"
         },
@@ -42434,6 +42596,15 @@
         {
           "airport": "LEI",
           "month": "2026-01",
+          "country": "CZ",
+          "countryLabel": "Czechia",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-01",
           "country": "DE",
           "countryLabel": "Germany",
           "passengers": 0,
@@ -42464,6 +42635,15 @@
           "country": "FR",
           "countryLabel": "France",
           "passengers": 24,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-01",
+          "country": "HU",
+          "countryLabel": "Hungary",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
         },
@@ -42506,6 +42686,15 @@
         {
           "airport": "LEI",
           "month": "2026-01",
+          "country": "PL",
+          "countryLabel": "Poland",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-01",
           "country": "PT",
           "countryLabel": "Portugal",
           "passengers": 3,
@@ -42514,9 +42703,36 @@
         },
         {
           "airport": "LEI",
+          "month": "2026-01",
+          "country": "SI",
+          "countryLabel": "Slovenia",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-01",
+          "country": "SK",
+          "countryLabel": "Slovakia",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
           "month": "2026-02",
           "country": "BE",
           "countryLabel": "Belgium",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-02",
+          "country": "CZ",
+          "countryLabel": "Czechia",
           "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
@@ -42560,6 +42776,15 @@
         {
           "airport": "LEI",
           "month": "2026-02",
+          "country": "HU",
+          "countryLabel": "Hungary",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-02",
           "country": "IS",
           "countryLabel": "Iceland",
           "passengers": 0,
@@ -42596,8 +42821,35 @@
         {
           "airport": "LEI",
           "month": "2026-02",
+          "country": "PL",
+          "countryLabel": "Poland",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-02",
           "country": "PT",
           "countryLabel": "Portugal",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-02",
+          "country": "SI",
+          "countryLabel": "Slovenia",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-02",
+          "country": "SK",
+          "countryLabel": "Slovakia",
           "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
@@ -42608,6 +42860,15 @@
           "country": "BE",
           "countryLabel": "Belgium",
           "passengers": 615,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-03",
+          "country": "CZ",
+          "countryLabel": "Czechia",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
         },
@@ -42650,6 +42911,15 @@
         {
           "airport": "LEI",
           "month": "2026-03",
+          "country": "HU",
+          "countryLabel": "Hungary",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-03",
           "country": "IS",
           "countryLabel": "Iceland",
           "passengers": 120,
@@ -42686,8 +42956,35 @@
         {
           "airport": "LEI",
           "month": "2026-03",
+          "country": "PL",
+          "countryLabel": "Poland",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-03",
           "country": "PT",
           "countryLabel": "Portugal",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-03",
+          "country": "SI",
+          "countryLabel": "Slovenia",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-03",
+          "country": "SK",
+          "countryLabel": "Slovakia",
           "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
@@ -42706,6 +43003,24 @@
           "month": "2026-04",
           "country": "CZ",
           "countryLabel": "Czechia",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-04",
+          "country": "DE",
+          "countryLabel": "Germany",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-04",
+          "country": "DK",
+          "countryLabel": "Denmark",
           "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
@@ -42830,6 +43145,24 @@
         {
           "airport": "LEI",
           "month": "2026-05",
+          "country": "DE",
+          "countryLabel": "Germany",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-05",
+          "country": "DK",
+          "countryLabel": "Denmark",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-05",
           "country": "ES",
           "countryLabel": "Spain",
           "passengers": 40741,
@@ -42941,6 +43274,24 @@
           "country": "CZ",
           "countryLabel": "Czechia",
           "passengers": 4806,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-06",
+          "country": "DE",
+          "countryLabel": "Germany",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "LEI",
+          "month": "2026-06",
+          "country": "DK",
+          "countryLabel": "Denmark",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEAM&sinceTimePeriod=2023-01"
         },
@@ -64664,6 +65015,15 @@
         {
           "airport": "SVQ",
           "month": "2026-01",
+          "country": "CY",
+          "countryLabel": "Cyprus",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEZL&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-01",
           "country": "CZ",
           "countryLabel": "Czechia",
           "passengers": 2906,
@@ -64847,6 +65207,15 @@
           "country": "CH",
           "countryLabel": "Switzerland",
           "passengers": 6975,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEZL&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-02",
+          "country": "CY",
+          "countryLabel": "Cyprus",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEZL&sinceTimePeriod=2023-01"
         },
@@ -65042,6 +65411,15 @@
         {
           "airport": "SVQ",
           "month": "2026-03",
+          "country": "CY",
+          "countryLabel": "Cyprus",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEZL&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-03",
           "country": "CZ",
           "countryLabel": "Czechia",
           "passengers": 4805,
@@ -65207,6 +65585,15 @@
           "country": "BE",
           "countryLabel": "Belgium",
           "passengers": 10782,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEZL&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-04",
+          "country": "BG",
+          "countryLabel": "Bulgaria",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEZL&sinceTimePeriod=2023-01"
         },
@@ -65402,6 +65789,15 @@
         {
           "airport": "SVQ",
           "month": "2026-05",
+          "country": "BG",
+          "countryLabel": "Bulgaria",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEZL&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-05",
           "country": "CH",
           "countryLabel": "Switzerland",
           "passengers": 14620,
@@ -65585,6 +65981,15 @@
           "country": "BE",
           "countryLabel": "Belgium",
           "passengers": 11821,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEZL&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "SVQ",
+          "month": "2026-06",
+          "country": "BG",
+          "countryLabel": "Bulgaria",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEZL&sinceTimePeriod=2023-01"
         },
@@ -72719,6 +73124,15 @@
         {
           "airport": "XRY",
           "month": "2026-01",
+          "country": "AT",
+          "countryLabel": "Austria",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-01",
           "country": "BE",
           "countryLabel": "Belgium",
           "passengers": 23,
@@ -72773,9 +73187,27 @@
         {
           "airport": "XRY",
           "month": "2026-01",
+          "country": "EL",
+          "countryLabel": "Greece",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-01",
           "country": "ES",
           "countryLabel": "Spain",
           "passengers": 34126,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-01",
+          "country": "FI",
+          "countryLabel": "Finland",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
         },
@@ -72818,6 +73250,15 @@
         {
           "airport": "XRY",
           "month": "2026-01",
+          "country": "LU",
+          "countryLabel": "Luxembourg",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-01",
           "country": "MT",
           "countryLabel": "Malta",
           "passengers": 0,
@@ -72829,6 +73270,42 @@
           "month": "2026-01",
           "country": "NL",
           "countryLabel": "Netherlands",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-01",
+          "country": "PL",
+          "countryLabel": "Poland",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-01",
+          "country": "PT",
+          "countryLabel": "Portugal",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-01",
+          "country": "TR",
+          "countryLabel": "Türkiye",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-02",
+          "country": "AT",
+          "countryLabel": "Austria",
           "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
@@ -72890,9 +73367,27 @@
         {
           "airport": "XRY",
           "month": "2026-02",
+          "country": "EL",
+          "countryLabel": "Greece",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-02",
           "country": "ES",
           "countryLabel": "Spain",
           "passengers": 34704,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-02",
+          "country": "FI",
+          "countryLabel": "Finland",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
         },
@@ -72935,6 +73430,15 @@
         {
           "airport": "XRY",
           "month": "2026-02",
+          "country": "LU",
+          "countryLabel": "Luxembourg",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-02",
           "country": "MT",
           "countryLabel": "Malta",
           "passengers": 4,
@@ -72946,6 +73450,42 @@
           "month": "2026-02",
           "country": "NL",
           "countryLabel": "Netherlands",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-02",
+          "country": "PL",
+          "countryLabel": "Poland",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-02",
+          "country": "PT",
+          "countryLabel": "Portugal",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-02",
+          "country": "TR",
+          "countryLabel": "Türkiye",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-03",
+          "country": "AT",
+          "countryLabel": "Austria",
           "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
@@ -73007,9 +73547,27 @@
         {
           "airport": "XRY",
           "month": "2026-03",
+          "country": "EL",
+          "countryLabel": "Greece",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-03",
           "country": "ES",
           "countryLabel": "Spain",
           "passengers": 36696,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-03",
+          "country": "FI",
+          "countryLabel": "Finland",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
         },
@@ -73052,6 +73610,15 @@
         {
           "airport": "XRY",
           "month": "2026-03",
+          "country": "LU",
+          "countryLabel": "Luxembourg",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-03",
           "country": "MT",
           "countryLabel": "Malta",
           "passengers": 0,
@@ -73064,6 +73631,33 @@
           "country": "NL",
           "countryLabel": "Netherlands",
           "passengers": 2,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-03",
+          "country": "PL",
+          "countryLabel": "Poland",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-03",
+          "country": "PT",
+          "countryLabel": "Portugal",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-03",
+          "country": "TR",
+          "countryLabel": "Türkiye",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
         },
@@ -73088,9 +73682,27 @@
         {
           "airport": "XRY",
           "month": "2026-04",
+          "country": "BG",
+          "countryLabel": "Bulgaria",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-04",
           "country": "CH",
           "countryLabel": "Switzerland",
           "passengers": 526,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-04",
+          "country": "CZ",
+          "countryLabel": "Czechia",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
         },
@@ -73196,6 +73808,15 @@
         {
           "airport": "XRY",
           "month": "2026-04",
+          "country": "NL",
+          "countryLabel": "Netherlands",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-04",
           "country": "PL",
           "countryLabel": "Poland",
           "passengers": 0,
@@ -73241,9 +73862,27 @@
         {
           "airport": "XRY",
           "month": "2026-05",
+          "country": "BG",
+          "countryLabel": "Bulgaria",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-05",
           "country": "CH",
           "countryLabel": "Switzerland",
           "passengers": 421,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-05",
+          "country": "CZ",
+          "countryLabel": "Czechia",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
         },
@@ -73349,6 +73988,15 @@
         {
           "airport": "XRY",
           "month": "2026-05",
+          "country": "NL",
+          "countryLabel": "Netherlands",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-05",
           "country": "PL",
           "countryLabel": "Poland",
           "passengers": 1616,
@@ -73394,9 +74042,27 @@
         {
           "airport": "XRY",
           "month": "2026-06",
+          "country": "BG",
+          "countryLabel": "Bulgaria",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-06",
           "country": "CH",
           "countryLabel": "Switzerland",
           "passengers": 313,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-06",
+          "country": "CZ",
+          "countryLabel": "Czechia",
+          "passengers": 0,
           "provider": "Eurostat",
           "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
         },
@@ -73502,6 +74168,15 @@
         {
           "airport": "XRY",
           "month": "2026-06",
+          "country": "NL",
+          "countryLabel": "Netherlands",
+          "passengers": 0,
+          "provider": "Eurostat",
+          "sourceUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_paoac?lang=EN&freq=M&unit=PAS&tra_meas=PAS_CRD&rep_airp=ES_LEJR&sinceTimePeriod=2023-01"
+        },
+        {
+          "airport": "XRY",
+          "month": "2026-06",
           "country": "PL",
           "countryLabel": "Poland",
           "passengers": 1424,
@@ -73530,7 +74205,7 @@
       "source": {
         "label": "Eurostat · países socios europeos",
         "provider": "Eurostat · países socios europeos",
-        "executedAt": "2026-11-16T17:09:18.912909+00:00",
+        "executedAt": "2026-11-17T16:57:07.998944+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-06-01"
@@ -78285,7 +78960,7 @@
       "source": {
         "label": "Eurostat · nacional e internacional",
         "provider": "Eurostat · nacional e internacional",
-        "executedAt": "2026-11-16T17:09:18.912909+00:00",
+        "executedAt": "2026-11-17T16:57:07.998944+00:00",
         "coverage": {
           "startDate": "2023-01-01",
           "endDate": "2026-06-01"
@@ -102196,7 +102871,7 @@
       "source": {
         "label": "UK Civil Aviation Authority · tabla 12.1",
         "provider": "UK Civil Aviation Authority · tabla 12.1",
-        "executedAt": "2026-11-16T17:09:18.912909+00:00",
+        "executedAt": "2026-11-17T16:57:07.998944+00:00",
         "coverage": {
           "startDate": "2024-01-01",
           "endDate": "2026-09-01"
